@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  min-height: 50rem;
+  background-image: url("./assets/back-abstract.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 29.5rem;
+  height: 45rem;
+  padding: 10px;
+  border: 10px solid #002333;
+  border-radius: 20px;
+  background-color: #DEEFE7;
+}
+
+.header {
+  display: inline-flex;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.task {
+  height: 4.5rem;
+  font-size: medium;
+}
+
+@media only screen and (max-height: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
