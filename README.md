@@ -1,3 +1,7 @@
+### Live Deployed Version
+
+- https://tasktracker-react-api.netlify.app/
+
 ### API Base URL
 
 - https://6360c56567d3b7a0a6b4ddc4.mockapi.io/tasktrackerapi/tasks
