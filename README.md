@@ -1,3 +1,15 @@
+### API Base URL
+
+- https://6360c56567d3b7a0a6b4ddc4.mockapi.io/tasktrackerapi/tasks
+
+### API ENDPOINTS
+
+- GET `tasktrackerapi/tasks` get all tasks
+- GET `tasktrackerapi/tasks/:id` get task by id
+- POST `tasktrackerapi/tasks` add new task
+- PUT `tasktrackerapi/tasks/:id` update task by id
+- DELETE `tasktrackerapi/tasks/:id` remove task by id
+
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
